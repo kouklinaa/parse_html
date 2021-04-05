@@ -59,7 +59,7 @@ _Stats :_
 | unique        | 49            |       
 | top           | vigne         |   
 
-_freq by doc :
+_freq by doc :_
 <div>
 <a href="https://plotly.com/~anna.tch/10/?share_key=V9qrxrZ86xMYvTbYc2iMC1" target="_blank" title="Plot 10" style="display: block; text-align: center;"><img src="https://plotly.com/~anna.tch/10.png?share_key=V9qrxrZ86xMYvTbYc2iMC1" alt="Plot 10" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
