@@ -16,6 +16,9 @@
 
 - [x] Sauts de ligne
 - [x] Caractères unicode 
+
+  <img src="Char_unicode.png" width="100" height="350" />
+  
 - [x] Différents apostrophes
 - [ ] Mots collés 
 - [ ] Mots séparés
