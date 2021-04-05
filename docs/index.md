@@ -43,7 +43,7 @@ Stats :
 <tr><td>
 
 | type          | freq          |
-| ------------- |:-------------:| 
+|--|--|
 | count         | 3722          |
 | unique        | 77            |
 | top           | cle01ba24     |
@@ -53,13 +53,14 @@ Stats :
 </td><td>
  
 | type          | freq          |             
-| ------------- |:-------------:|       
+|--|--|     
 | count         | 3722          |       
 | unique        | 49            |       
 | top           | vigne         |   
 
 
-</td></tr> </table>
+</td></tr>
+</table>
 
 
 tf-idf :
