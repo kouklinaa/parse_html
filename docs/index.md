@@ -19,11 +19,12 @@
 
 - [x] Sauts de ligne
 
- <img src="Sauts_de_ligne.png" width="120" height="210" />
+  <img align="center" src="Sauts_de_ligne.png" width="100" height="180" />
 
 - [x] Caractères unicode 
-
-  <img src="Char_unicode.png" width="100" height="350" />
+  
+  <img align="center" src="Char_unicode.png" width="100" height="350" />
+  
   
 - [x] Différents apostrophes
 - [ ] Mots collés 
