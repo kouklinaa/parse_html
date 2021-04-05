@@ -1,25 +1,27 @@
 ## Projection de la lexique
 
 
-### Corpus de teste :
+### Données :
 
+ **Corpus de teste**
+ 
+- [x] Viticulture
+- [ ] Maraichage
+- [ ] GC
 
-> - [x] Viticulture
-> - [ ] Maraichage
-> - [ ] GC
+> Les données sont disponibles sur
+> [https://gitlab.irstea.fr/copain/d2kab/-/tree/master/corpus_test/corpus_test_d2kab](url)
 
-Les données sont disponibles sur [https://gitlab.irstea.fr/copain/d2kab/-/tree/master/corpus_test/corpus_test_d2kab](url)
+**Problèmes rencontrés :** 
 
-Problèmes rencontrés:
-
-> - [x] Sauts de ligne
-> - [x] Caractères unicode 
-> - [x] Différents apostrophes
-> - [ ] Mots collés 
-> - [ ] Mots séparés
->   * Césures
->   * Types de police
->   * Lettres espacées 
+- [x] Sauts de ligne
+- [x] Caractères unicode 
+- [x] Différents apostrophes
+- [ ] Mots collés 
+- [ ] Mots séparés
+  * Césures
+  * Types de police
+  * Lettres espacées 
 
 
 ### Vocabulaire :
@@ -28,7 +30,7 @@ Problèmes rencontrés:
 
 **FCU**
 
-_tf-idf_ :
+tf-idf :
 
 <div>
     <a href="https://plotly.com/~anna.tch/1/?share_key=Qa0fmI9ECGlSv6WVpjt7s9" target="_blank" title="fcu_terms" style="display: block; text-align: center;"><img src="https://plotly.com/~anna.tch/1.png?share_key=Qa0fmI9ECGlSv6WVpjt7s9" alt="fcu_terms" style="max-width: 100%;width: 500px;"  width="500" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
