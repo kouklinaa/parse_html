@@ -45,7 +45,14 @@
       pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/bsv_viti_lr_n03_16042019_cle82d51a.pdf](url)
   
 - [ ] Mots séparés
+
   * Césures
+  
+      <img align="center" src="tiret.png" width="100" height="180" />
+      
+      pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/alsace_vigne_no8_du_25-06-19_cle818164.pdf](url)
+      
+      
   * Types de police
   * Lettres espacées 
 
