@@ -87,14 +87,14 @@ _Stats :_
 | unique        | 49            |       
 | top           | vigne         |   
 
-_freq by doc :_
+_Freq by doc :_
 <div>
 <a href="https://plotly.com/~anna.tch/10/?share_key=V9qrxrZ86xMYvTbYc2iMC1" target="_blank" title="Plot 10" style="display: block; text-align: center;"><img src="https://plotly.com/~anna.tch/10.png?share_key=V9qrxrZ86xMYvTbYc2iMC1" alt="Plot 10" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
 
 
 
-_tf-idf :_
+_Tf-idf :_
 <div>
 <a href="https://plotly.com/~anna.tch/1/?share_key=Qa0fmI9ECGlSv6WVpjt7s9" target="_blank" title="fcu_terms" style="display: block; text-align: center;"><img src="https://plotly.com/~anna.tch/1.png?share_key=Qa0fmI9ECGlSv6WVpjt7s9" alt="fcu_terms" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
 </div>
@@ -105,8 +105,13 @@ _tf-idf :_
 
 **Stades phénologiques**
 
-
-
+- [x] projection charge dans le script
+- [x] langue de prefLabel est corrigé en "fr"
+- [ ] créer des patrons type *"abricot, figue et pèche"*
+- [ ] trouver plus de matchs, par example :
+		*  BBCH01
+		*  EL35 (eichkorl en Lorenz)
+		*  A1 (baggiolini)
 
 
 
