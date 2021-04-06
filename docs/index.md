@@ -19,28 +19,24 @@
 
 - [x] Sauts de ligne
 
-  <img align="center" src="Sauts_de_ligne.png" width="100" height="180" />
 
 - [x] Différents apostrophes
 
-  <img align="center" src="Apostrophes.png" width="100" height="180" />
 
 - [x] Caractères unicode 
-  
-  <img align="center" src="Char_unicode.png" width="100" height="350" />
   
 
  
 - [ ] Mots collés 
   * Type de police
  
-      <img align="center" src="Oparcellestxt.png" width="100" height="180" />
+      <img align="center" src="Oparcellestxt.png" width="100" height="150" />
 
       > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV-viti-RA-15_09-07-2019_cle01ba24.pdf](url)
  
   * Sans raison particulière...
 
-      <img align="center" src="3feuilles.png" width="100" height="180" />
+      <img align="center" src="3feuilles.png" width="100" height="150" />
   
       > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/bsv_viti_lr_n03_16042019_cle82d51a.pdf](url)
   
@@ -48,21 +44,21 @@
 
   * Césures
   
-      <img align="center" src="police.png" width="100" height="180" />
+      <img align="center" src="police.png" width="100" height="150" />
       
       > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/alsace_vigne_no8_du_25-06-19_cle818164.pdf](url)
       
       
   * Types de police
   
-      <img align="center" src="tiret.png" width="100" height="180" />
+      <img align="center" src="tiret.png" width="100" height="150" />
       
       > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV_4_-_7_mai_2019_cle8db5ca.pdf](url)
   
   
   * Lettres espacées 
 
-     <img align="center" src="lettres_esp.png" width="100" height="180" />
+     <img align="center" src="lettres_esp.png" width="100" height="150" />
      
      > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV_2019_n13_cle0f596d.pdf](url)
 
