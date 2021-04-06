@@ -36,12 +36,13 @@
  
    <img align="center" src="Oparcellestxt.png" width="100" height="180" />
 
-   pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV-viti-RA-15_09-07-2019_cle01ba24.pdf](url)
+   > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV-viti-RA-15_09-07-2019_cle01ba24.pdf](url)
  
   * Sans raison particulière...
 
+  <img align="center" src="3feuilles.png" width="100" height="180" />
   
-   pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/BSV_12_-_2_juillet_2019_cle8252f7.pdf](url)
+   > pdf : [http://ontology.inrae.fr/bsv/html/Corpus/Tests/Viticulture/pdf/bsv_viti_lr_n03_16042019_cle82d51a.pdf](url)
   
 - [ ] Mots séparés
   * Césures
